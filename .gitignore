@@ -18,3 +18,5 @@
 # Vim
 .*.swp
 
+# Java
+*.class
