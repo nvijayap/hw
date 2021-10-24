@@ -6,7 +6,7 @@
 
 . Running the script reveals the os details and the time taken to run the program
 
-# go
+## go
 
 . From this repo's top-level dir - `go/hw.sh`
 
