@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+cd `dirname $0`
+
 OS=`uname -s`
 
 if [ "$OS" == "Darwin" ]; then
