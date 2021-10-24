@@ -10,4 +10,4 @@
 
 . From this repo's top-level dir - `go/hw.sh`
 
-. From within the go dir - `./go.sh`
+. From within the go dir - `./hw.sh`
